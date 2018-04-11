@@ -41,4 +41,4 @@ def main (csv_path, json_filepath)
   puts "\nDone."
 end
 
-main("/Users/Captain/Desktop/Q_COURSES1.csv", "/Users/Captain/Desktop/q_courses1.json")
+main("CSV FILE PATH HERE", "JSON FILE PATH HERE")
