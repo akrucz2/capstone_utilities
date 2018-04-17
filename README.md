@@ -1,2 +1,2 @@
 # capstone_utilities
-jsut scripts for now
+just scripts for now
